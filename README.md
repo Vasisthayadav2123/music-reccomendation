@@ -1,2 +1,2 @@
 # music-reccomendation
-frist machine learning project
+first machine learning project
